@@ -1,7 +1,7 @@
 function App() {
   return (
     <div className="App">
-      Sveiki
+      Gėlių parduotuvė
     </div>
   );
 }
